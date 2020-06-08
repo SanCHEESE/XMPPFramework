@@ -171,6 +171,10 @@
 #import "XMPPRoomLightMessageCoreDataStorageObject.h"
 #import "XMPPOneToOneChat.h"
 
+#import "XMPPJingle.h"
+#import "JAHConvertSDP.h"
+#import "XMPPJingleSDP.h"
+
 
 FOUNDATION_EXPORT double XMPPFrameworkVersionNumber;
 FOUNDATION_EXPORT const unsigned char XMPPFrameworkVersionString[];
